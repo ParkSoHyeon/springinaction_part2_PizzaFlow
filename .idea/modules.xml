@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizzaflow.iml" filepath="$PROJECT_DIR$/.idea/modules/pizzaflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizzaflow_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pizzaflow_main.iml" group="pizzaflow" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pizzaflow_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pizzaflow_test.iml" group="pizzaflow" />
+    </modules>
+  </component>
+</project>
